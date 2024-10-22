@@ -1,0 +1,146 @@
+[
+  {
+    "name": "pizza",
+    "price": 100,
+    "category": "veg",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAgJ-BwIlCD3nDITxXlJXsldBTlCYfdz_03OhkVEG0AUAvXGCEREMa_0X2z7akt2x28UodBVTLgla6B6H7BFRv2KyhAcd-sqHhSyEmXetvA03CA0v6w8keQcRSuQOwbqVWp4TVVu-UY8clWRRRqtw_HPJ_kkAiyf-5E1BUzXSyvedeA0lApIORXp4v/s2948/Slide1-001.JPG"
+  },
+  {
+    "name": "Pizza",
+    "price": 200,
+    "category": "nonveg",
+    "image": "https://5.imimg.com/data5/RI/MN/MY-17758356/imperial-recipe-pizza-non-veg-chicken-heavyweight-i10-500x500.png"
+  },
+  {
+    "name": "sandwitch",
+    "price": 150,
+    "category": "veg",
+    "image": "https://somethingscookingwithalpa.com/wp-content/uploads/2021/02/CheesyVegSandwich_Wb.jpg"
+  },
+  {
+    "name": "sandwitch",
+    "price": 300,
+    "category": "nonveg",
+    "image": "https://www.celebrationcafe.co.in/img/category/Sandwich.jpg"
+  },
+  {
+    "name": "sald",
+    "price": 60,
+    "category": "veg",
+    "image": "https://cdn.jwplayer.com/v2/media/wGEqBtuf/thumbnails/qSXwlEH3.jpg"
+  },
+  {
+    "name": "sald",
+    "price": 120,
+    "category": "fruit",
+    "image": "https://foodnheal.com/wp-content/uploads/2020/09/how-to-make-fruit-salad-for-weight-loss-500x375.jpg"
+  },
+  {
+    "name": "sald",
+    "price": 180,
+    "category": "nonveg",
+    "image": "https://i.ytimg.com/vi/acTu1Jl8-gY/maxresdefault.jpg"
+  },
+  {
+    "name": "biryani",
+    "price": 400,
+    "category": "veg",
+    "image": "https://i.ytimg.com/vi/Do7ZdUodDdw/maxresdefault.jpg"
+  },
+  {
+    "name": "biryani",
+    "price": 500,
+    "category": "nonveg",
+    "image": "https://madhurasrecipe.com/wp-content/uploads/2022/12/Chicken-Biryani-Featured.jpg"
+  },
+  {
+    "name": "staters",
+    "price": 140,
+    "category": "veg",
+    "image": "https://c8.alamy.com/comp/H9MKCN/mix-veg-tikka-kabab-indian-veg-starter-pune-india-H9MKCN.jpg"
+  },
+  {
+    "name": "staters",
+    "price": 180,
+    "category": "nonveg",
+    "image":"https://www.giggsmeat.com/wp-content/uploads/2020/10/Z03iEXDbcD-min.jpg"
+  },
+  {
+    "name": "icecrrem",
+    "price": 30,
+    "category": "venela",
+    "image": "https://www.biggerbolderbaking.com/wp-content/uploads/2018/05/Vanilla-2-Ingredient-Ice-cream-scaled.jpg"
+  },
+  {
+    "name": "icecrrem",
+    "price": 40,
+    "category": "stroberry",
+    "image": "https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-us-cuisinart-sfra-Library/default/dw8b794b5f/images/recipe-Images/fresh-strawberry-ice-cream2-recipe.jpg?sw=1200&sh=1200&sm=fit"
+  },
+  {
+    "name": "icecrrem",
+    "price": 60,
+    "category": "black current",
+    "image": "https://i.ytimg.com/vi/a93qbAgVFOA/maxresdefault.jpg"
+  },
+  {
+    "name": "icecrrem",
+    "price": 80,
+    "category": "chocklet",
+    "image": "https://eatsbythebeach.com/wp-content/uploads/2022/06/Decadent-No-Churn-Chocolate-Ice-Cream-1-Eats-By-The-Beach.jpeg"
+  },
+  {
+    "name": "tiffen",
+    "price": 10,
+    "category": "dosa",
+    "image": "https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg"
+  },
+  {
+    "name": "tiffen",
+    "price": 20,
+    "category": "edly",
+    "image": "https://content.jdmagicbox.com/comp/ahmedabad/g5/079pxx79.xx79.171225200729.h9g5/catalogue/south-indian-food-edly-meduvada-bodakdev-ahmedabad-restaurants-hwywq.jpg"
+  },
+  {
+    "name": "tiffen",
+    "price": 30,
+    "category": "bonda",
+    "image": "https://www.awesomecuisine.com/wp-content/uploads/2014/05/curd-bonda.jpg"
+  },
+  {
+    "name": "juce",
+    "price": 50,
+    "category": "orange",
+    "image": "https://vinyasayogaacademy.com/blog/wp-content/uploads/2020/03/Benefits-of-Drinking-Orange-Juice-every-morning.jpg"
+  },
+  {
+    "name": "juce",
+    "price": 70,
+    "category": "lemon",
+    "image": "https://abcfruits.com/wp-content/uploads/2024/02/Lemon-Juice-concentrate-768x768.jpg"
+  },
+  {
+    "name": "juce",
+    "price": 30,
+    "category": "lassi",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUWcSAGSojhyLEgwASfeFUtbqz9gNGM_lLvA&s"
+  },
+  {
+    "name": "dry item",
+    "price": 250,
+    "category": "fish",
+    "image": "https://m.media-amazon.com/images/I/9104ZjvtZ7L.jpg"
+  },
+  {
+    "name": "dry item",
+    "price": 350,
+    "category": "chiken",
+    "image": "https://i.ytimg.com/vi/j2Pv6hnf060/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDQNxTPB6Fxj60syUbxWuAejroROQ"
+  },
+  {
+    "name": "dry item",
+    "price": 550,
+    "category": "mutton",
+    "image": "https://frombowltosoul.com/wp-content/uploads/2018/12/IMG_5950.jpg"
+  }
+]
